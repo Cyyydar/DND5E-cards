@@ -49,7 +49,7 @@ body {
 }
 .card.back {
 	/*display: block;*/
-	/*float: right;*/
+	float: right;
 }
 .title {
 	font-size: 4mm;
